@@ -1,0 +1,8 @@
+手机号: "xpath==//*[@id='pane-company']/div/form/div[1]/div/div[1]/input"
+密码: "xpath==//*[@id='pane-company']/div/form/div[2]/div/div[2]/div[1]/div/input"
+登录: "xpath==//*[@id='pane-company']/div/form/div[5]/div/button"
+窗口切换: "xpath==//*[@id='content']/div/iframe"
+选择企业: "xpath==//*[@id='app']/section/div/div/div/div[2]/div/div[3]/div/span"
+确定: "xpath==//*[@id='app']/section/div/div/div/div[3]/button"
+继续登录: "xpath==//*[@class='el-button el-button--default el-button--small']"
+
